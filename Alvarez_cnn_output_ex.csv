@@ -1,0 +1,19 @@
+,,
+,Diagnosis,
+,pic1,1 or C
+,pic2,1 or C
+,pic3,0 or N
+,pic4,2 or V
+,pic5,2 or V
+,pic6,2 or V
+,pic7,0 or N
+,pic8,0 or N
+,pic9,2 or V
+,pic10,0 or N
+,Please write:,
+,0 / N - Normal,
+,1 / C - Covid,
+,2 / V - Viral Pneumonia ,
+,,
+,,
+,,
